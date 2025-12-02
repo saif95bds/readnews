@@ -1,0 +1,4 @@
+BBC, https://www.bbc.com/bengali/index.xml
+DW, https://rss.dw.com/xml/rss-bn-all
+Kalerkantho, https://www.kalerkantho.com/rss.xml
+prothom alo, https://prod-qt-images.s3.amazonaws.com/production/prothomalo-bangla/feed.xml

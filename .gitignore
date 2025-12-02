@@ -1,4 +1,4 @@
-news_feeds.txt
+#news_feeds.txt
 news_fetcher.log*
 downloaded_news/
 __pycache__/
